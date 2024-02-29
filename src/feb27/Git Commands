@@ -1,0 +1,6 @@
+                             Git Commands
+git init-- to initialize the repo
+git status -- to check the current status of git
+git commit --commit the changes, finalize the local snapshot
+current stage: work space
+staging area: area before you make commit
